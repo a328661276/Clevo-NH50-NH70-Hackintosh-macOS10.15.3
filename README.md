@@ -23,4 +23,5 @@ G8 CT7NK
 T3TI
 雷神
 911MT
-![image]（https://github.com/a328661276/Clevo-NH50-NH70-Hackintosh-macOS10.15.3/blob/master/Images/%E6%88%AA%E5%B1%8F2020-03-15%E4%B8%8A%E5%8D%882.52.43.png）
+
+![image](https://github.com/a328661276/Clevo-NH50-NH70-Hackintosh-macOS10.15.3/blob/master/Images/%E6%88%AA%E5%B1%8F2020-03-15%E4%B8%8A%E5%8D%882.52.43.png)
