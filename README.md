@@ -1,0 +1,1 @@
+# Clevo-NH50-NH70-Hackintosh-macOS10.15.3
