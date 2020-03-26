@@ -1,5 +1,6 @@
 # Clevo-NH50-NH70-Hackintosh-macOS10.15.3
-黑苹果 macOS 10.15.3 
+黑苹果 macOS 10.15.3 或者更旧的版本 理论上10.14到10.15.3都兼容
+！！！10.15.4必须升级Clover至5107版本 否则会卡＋号！！！
 适用于蓝天Clevo NH5xRD_RC_RA_RH(Q)/NH70RD_RC_RA_RH(Q)
 例如
 神舟战神
